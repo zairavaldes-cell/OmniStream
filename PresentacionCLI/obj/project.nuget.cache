@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2j+3d9Oc56o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\OmniStream\\PresentacionCLI\\PresentacionCLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
