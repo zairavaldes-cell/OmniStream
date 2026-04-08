@@ -23,38 +23,38 @@ OmniStream/
 ├── script.sql            → Script de base de datos
 └── README.md
 
-⚙️ Tecnologías utilizadas
+⚙️ Tecnologías utilizadas:
 C#
 .NET
 JSON (persistencia de datos)
 SQL (script de base de datos)
 Git y GitHub
 
-🧪 Pruebas del Sistema
+🧪 Pruebas del Sistema:
 Se implementaron pruebas para validar:
 Creación de usuarios
 Aplicación de la regla de negocio
 Validación de usuarios premium
 Estas pruebas permiten asegurar el correcto funcionamiento del sistema.
 
-🗄️ Base de Datos
+🗄️ Base de Datos:
 Se incluye un archivo script.sql que contiene:
 Creación de la tabla Usuarios
 Inserción de datos de prueba
 Consultas para validar la regla de negocio
 
-▶️ Ejecución del Proyecto
+▶️ Ejecución del Proyecto:
 Clonar el repositorio:
 git clone https://github.com/zairavaldes-cell/OmniStream.git
 
 Ejecutar el proyecto:
 dotnet run --project PresentacionCLI
 
-📊 Ejemplo de funcionamiento
+📊 Ejemplo de funcionamiento:
 Se ingresa un ID de usuario
 El sistema consulta los datos
 Aplica la regla de negocio
 Indica si el usuario es Premium o no
 
-👩‍💻 Autores
+👩‍💻 Autores:
 Zaira Daniela Valdés Martínez, Jhony Alexander Jimenez
