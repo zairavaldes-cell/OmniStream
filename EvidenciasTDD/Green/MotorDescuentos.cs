@@ -1,4 +1,4 @@
-public class MotorDescuentos
+public class MotorDescuentosGreen
 {
     public double CalcularPrecioFinal(int anios, string codigo)
     {
