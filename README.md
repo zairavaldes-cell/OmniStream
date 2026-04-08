@@ -14,6 +14,7 @@ No tiene deudas
 Esta lógica se aplica tanto en el código como en la base de datos.
 
 🏗️ Estructura del Proyecto
+
 OmniStream/
 │
 ├── Dominio/              → Entidades y reglas de negocio
