@@ -4,9 +4,7 @@ OmniStream - Proyecto Arquitectura en 3 Capas
 OmniStream es una aplicación desarrollada bajo el patrón de arquitectura en 3 capas, cuyo objetivo es gestionar usuarios y aplicar una regla de negocio que determina si un usuario puede ser considerado como Premium.
 La aplicación separa claramente las responsabilidades en:
 
-Capa de Presentación (CLI)
-Capa de Dominio
-Capa de Infraestructura
+Capa de Presentación (CLI), Capa de Dominio y Capa de Infraestructura
 
 🧠 Regla de Negocio
 Un usuario será considerado Premium si cumple con las siguientes condiciones:
