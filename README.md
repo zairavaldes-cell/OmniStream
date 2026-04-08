@@ -58,5 +58,4 @@ Aplica la regla de negocio
 Indica si el usuario es Premium o no
 
 👩‍💻 Autores
-Zaira Daniela Valdés Martínez
-Jhony Alexander Jimenez
+Zaira Daniela Valdés Martínez, Jhony Alexander Jimenez
