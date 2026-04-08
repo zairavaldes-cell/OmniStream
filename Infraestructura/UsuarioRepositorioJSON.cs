@@ -5,7 +5,7 @@ using System.Linq;
 
 public class UsuarioRepositorioJSON : IUsuarioRepositorio
 {
-  private string archivo = @"C:\Users\ASUS\OneDrive\Documentos\OmniStream\PresentacionCLI\usuarios.json";
+  private string archivo = @"C:\Users\Danie\OmniStream\PresentacionCLI\usuarios.json";
 public Usuario ObtenerPorId(int id)
 {
     Console.WriteLine("Ruta: " + Path.GetFullPath(archivo));
