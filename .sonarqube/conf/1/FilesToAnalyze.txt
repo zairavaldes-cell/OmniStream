@@ -1,0 +1,11 @@
+﻿C:\Users\Danie\OmniStream\Tests\GMotorDescuentosTests.cs
+C:\Users\Danie\OmniStream\Tests\MotorDescuentosTests.cs
+C:\Users\Danie\OmniStream\Tests\RMotorDescuentosTests.cs
+C:\Users\Danie\OmniStream\Tests\ServicioSuscripcionTests.cs
+C:\Users\Danie\OmniStream\Tests\UnitTest1.cs
+C:\Users\Danie\OmniStream\Tests\UsuarioTests.cs
+C:\Users\Danie\.nuget\packages\microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Danie\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.exe
+C:\Users\Danie\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.dll
+C:\Users\Danie\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.abstractions.dll
+C:\Users\Danie\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.testadapter.dll

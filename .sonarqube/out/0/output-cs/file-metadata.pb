@@ -1,0 +1,9 @@
+V
+KC:\Users\Danie\OmniStream\Dominio\obj\Debug\net10.0\Dominio.AssemblyInfo.csutf-8n
+cC:\Users\Danie\OmniStream\Dominio\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8X
+MC:\Users\Danie\OmniStream\Dominio\obj\Debug\net10.0\Dominio.GlobalUsings.g.csutf-85
+,C:\Users\Danie\OmniStream\Dominio\Usuario.csutf-8A
+8C:\Users\Danie\OmniStream\Dominio\ServicioSuscripcion.csutf-8=
+4C:\Users\Danie\OmniStream\Dominio\MotorDescuentos.csutf-8A
+8C:\Users\Danie\OmniStream\Dominio\IUsuarioRepositorio.csutf-84
++C:\Users\Danie\OmniStream\Dominio\Class1.csutf-8

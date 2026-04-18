@@ -1,0 +1,1 @@
+=R0C:\Users\Danie\OmniStream\Dominio\Dominio.csprojòCSharp14

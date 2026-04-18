@@ -1,0 +1,11 @@
+T
+IC:\Users\Danie\OmniStream\Tests\obj\Debug\net10.0\Tests.GlobalUsings.g.csutf-8R
+GC:\Users\Danie\OmniStream\Tests\obj\Debug\net10.0\Tests.AssemblyInfo.csutf-8l
+aC:\Users\Danie\OmniStream\Tests\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8w
+lC:\Users\Danie\.nuget\packages\microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.csutf-88
+/C:\Users\Danie\OmniStream\Tests\UsuarioTests.csutf-85
+,C:\Users\Danie\OmniStream\Tests\UnitTest1.csutf-8D
+;C:\Users\Danie\OmniStream\Tests\ServicioSuscripcionTests.csutf-8A
+8C:\Users\Danie\OmniStream\Tests\RMotorDescuentosTests.csutf-8@
+7C:\Users\Danie\OmniStream\Tests\MotorDescuentosTests.csutf-8A
+8C:\Users\Danie\OmniStream\Tests\GMotorDescuentosTests.csutf-8

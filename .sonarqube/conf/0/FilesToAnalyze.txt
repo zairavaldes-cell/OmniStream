@@ -1,0 +1,5 @@
+﻿C:\Users\Danie\OmniStream\Dominio\Class1.cs
+C:\Users\Danie\OmniStream\Dominio\IUsuarioRepositorio.cs
+C:\Users\Danie\OmniStream\Dominio\MotorDescuentos.cs
+C:\Users\Danie\OmniStream\Dominio\ServicioSuscripcion.cs
+C:\Users\Danie\OmniStream\Dominio\Usuario.cs
